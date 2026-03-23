@@ -1,0 +1,8 @@
+numpy
+pandas
+opencv-python
+scikit-learn
+tensorflow
+catboost
+matplotlib
+to run the code make sure to download above imports or packages
